@@ -15,5 +15,5 @@ class Shoe
 
 end
 
-
+def genre=
 
