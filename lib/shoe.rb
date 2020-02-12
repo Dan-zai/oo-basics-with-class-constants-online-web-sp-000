@@ -15,5 +15,11 @@ class Shoe
 
 end
 
-def genre=
+def brand=(brand)
+  @brand = brand
+  
+  BRANDS << brand 
+  
+end
+  
 
