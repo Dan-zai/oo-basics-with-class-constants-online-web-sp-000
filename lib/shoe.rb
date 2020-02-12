@@ -17,7 +17,7 @@ end
 
 def brand=(brand)
   @brand = brand
-  brands << brand 
+  BRANDS << brand 
   
 end
   
